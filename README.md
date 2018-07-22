@@ -1,3 +1,3 @@
 # HelloWorldUtsa 
 My First Repository
-//Lets make some changes to it.
+//Lets make some changes to them.
